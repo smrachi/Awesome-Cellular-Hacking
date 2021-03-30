@@ -99,6 +99,8 @@ transmission of eNodeB to eNodeB RF communication.
 
 
 ## 5G Cellular Attacks
+- [Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)
+- [Threat modeling framework for mobile communication system](https://arxiv.org/pdf/2005.05110v1.pdf)
 - [ENISA THREAT LANDSCAPE FOR 5G NETWORKS](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ENISA%20threat%20landscape%20for%205G%20Networks.pdf)
 - [Protecting the 4G and 5G Cellular PagingProtocols against Security and Privacy Attacks](https://www.degruyter.com/downloadpdf/j/popets.2020.2020.issue-1/popets-2020-0008/popets-2020-0008.pdf)
 - [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf)
@@ -110,7 +112,8 @@ transmission of eNodeB to eNodeB RF communication.
 - [Side Channel Analysis in 4G and 5G Cellular Networks](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf) 
 - [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 
-## 2G-4G/LTE Cellular Attacks
+## 4G/LTE Cellular Attacks
+- [Detecting Fake 4G Base Stations In Real Time](https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf)
 - [BaseSAFE: Baseband SAnitized Fuzzing through Emulation](https://arxiv.org/pdf/2005.07797.pdf)
 - [Paging Storm Attacks against 4G/LTE Networks from Regional Android Botnets: Rationale, Practicality, and Implications](https://www.cs.binghamton.edu/~ghyan/papers/wisec20.pdf)
 - [This is Your President Speaking:Spoofing Alerts in 4G LTE Networks](https://netstech.org/wp-content/uploads/2019/06/cmas-mobisys2019.pdf)
